@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QtYDNCpBFoQH53Fq6ZqlasZYBykGQu3MSrz0bQSo7Qmxx/AGCzgcOkz7WXxyRznzeeQcg0eUIbeOK0FYPQJ4IA==",
+  "dgSpecHash": "LtwSeLERtaU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementsExercise2\\SelectionStatementsExercise2\\SelectionStatementsExercise2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lakin\\repos\\Selection-Statement-Exercise-2\\SelectionStatementsExercise2\\SelectionStatementsExercise2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lakin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lakin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lakin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lakin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }
